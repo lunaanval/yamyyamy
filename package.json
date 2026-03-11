@@ -14,5 +14,13 @@
     "canvas": "^3.2.1",
     "discord.js": "^14.25.1",
     "dotenv": "^17.3.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lunaanval/yamyyamy.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lunaanval/yamyyamy/issues"
+  },
+  "homepage": "https://github.com/lunaanval/yamyyamy#readme"
 }
